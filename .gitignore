@@ -293,3 +293,11 @@ pip-selfcheck.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+all,visualstudiocode,venv
+
+# Project-specific files
+map.json
+experiment_results.csv
+*.csv
+src/Test.py
+src/Experiments.py
+QUICKSTART.md
